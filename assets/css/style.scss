@@ -1,13 +1,13 @@
 ---
 ---
 @import "bootstrap.min.css";
-body{ background-color: white
+body{ background-color: #2b2d2f
 }
 #header {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 20px;
+  padding: 0;
   overflow: hidden;
   background-color: #333;
   background: #333
@@ -28,5 +28,6 @@ li a:hover {
 }
 }
 #wrapper{ float: right}
-img{ max-width: 100%;}
+img{ max-width: 100%;
+padding: 20px;}
 body { margin: 20px, 20px, 20px, 20px;}
