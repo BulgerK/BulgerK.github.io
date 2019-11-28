@@ -3,5 +3,6 @@ layout: default
 title: Contact
 id: contact
 ---
+Email: kelly.bulger@rogers.com
 
-This is my contact page!!!!
+Phone:
