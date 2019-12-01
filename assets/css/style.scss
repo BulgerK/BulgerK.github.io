@@ -28,11 +28,11 @@ li a:hover {
 }
 
 #wrapper{ float: right;
- }
+  img {  max-width: 50%;}}
 img{ position: relative;
   
     
-    max-width: 50%;
+    max-width: 100%;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
