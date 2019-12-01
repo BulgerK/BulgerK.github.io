@@ -29,9 +29,14 @@ li a:hover {
 
 #wrapper{ float: right;
  }
-img{ max-width: 100%;
-  padding: 0;
-  max-height: 100em;
+img{ position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+
 }
 
 body { margin: 20px, 20px, 20px, 20px;
