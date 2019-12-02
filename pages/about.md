@@ -4,7 +4,7 @@ title: About
 id: about
 thumbnail: ''
 ---
-<div id="me">
+<div class="pic">
 
 <img src="/images/uploads/img_3162.jpg" alt="me" align="right" float="right">
 
