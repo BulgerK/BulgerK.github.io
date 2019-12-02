@@ -40,7 +40,7 @@ thumbnail: ''
 
 </table>
 
-
+`#tb2 {float: right;}`
 
 <table id= "tb3">
 
