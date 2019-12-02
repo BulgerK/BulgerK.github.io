@@ -2,7 +2,7 @@
 layout: default
 title: About
 id: about
-thumbnail: ''
+
 ---
 <h2>Hi! I'm Kelly Bulger, a designer with a love for storytelling and the creative imagination.</h2>
 
