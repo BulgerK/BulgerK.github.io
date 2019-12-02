@@ -59,5 +59,3 @@ thumbnail: ''
 <br>
 
 <br>
-
-<link rel="Me" type="img/jpg" href="/images/uploads/img_3162.jpg">
