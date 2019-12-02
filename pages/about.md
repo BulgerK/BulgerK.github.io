@@ -2,44 +2,82 @@
 layout: default
 title: About
 id: about
-thumbnail: ''
+thumbnail: /images/uploads/img_3162.jpg
 ---
-<h3> Personality/My Story</h3>
+<table>
 
-Creative
+<tr>
 
-Storyteller
+<td><h3> Personality/My Story</td>
+</h3></tr>
 
-Imaginative
+<tr><td>Creative</td></tr>
 
-Expressive
+<tr><td>Storyteller</td></tr>
 
-<h3>Skills</h3>
+<tr><td>Imaginative</td></tr>
 
-Communicator
+<tr><td>Expressive</td></tr>
 
-Team Player
+</table>
 
-Results oriented
 
-Problem Solver
 
-<h3>Experience</h3>
+<table>
 
-Microsoft Office
+<tr>
 
-Adobe Suite
+<td><h3> Skills</td>
+</h3></tr>
 
-Twine
+<tr><td>Communicator</td></tr>
 
-HTML
+<tr><td>Team Player</td></tr>
 
-<h3>Activities</h3>
+<tr><td>Results oriented</td></tr>
 
-Voice & Keyboard
+<tr><td>Problem Solver</td></tr>
 
-Writing & Drawing
+</table>
 
-Hockey
 
-Travel bug
+
+<table>
+
+<tr>
+
+<td><h3> Experience</td>
+</h3></tr>
+
+<tr><td>Adobe Suite</td></tr>
+
+<tr><td>Microsoft Office</td></tr>
+
+<tr><td>Twine</td></tr>
+
+<tr><td>HTML</td></tr>
+
+</table>
+
+
+
+<table>
+
+<tr>
+
+<td><h3> Activities/Interests</td>
+</h3></tr>
+
+<tr><td>Voice & Keyboard</td></tr>
+
+<tr><td>Writing & Drawing</td></tr>
+
+<tr><td>Hockey</td></tr>
+
+<tr><td>Travel bug</td></tr>
+
+</table>
+
+
+
+<img href= "media/IMG_3162.JPG">
