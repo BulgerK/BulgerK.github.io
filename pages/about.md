@@ -6,7 +6,7 @@ thumbnail: ''
 ---
 <div class="pic">
 
-<img src="/images/uploads/img_3162.jpg" alt="me" align="right" style= "float=right">
+<img src="/images/uploads/img_3162.jpg" alt="me" style= "float=right">
 
 <table>
 
@@ -36,7 +36,7 @@ thumbnail: ''
 
 </div>
 
-<table style= "float: left">
+<table>
 
 <tr>
 
