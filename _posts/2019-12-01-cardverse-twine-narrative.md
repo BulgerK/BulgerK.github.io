@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cardverse - Twine Narrative
+title: Cardverse - Choose Your Own Adventure Story
 date: '2019-12-01 14:27:35'
 thumbnail: /images/uploads/img_3151.jpg
 myangle: ''
