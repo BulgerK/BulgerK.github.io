@@ -7,9 +7,7 @@ Reach Me At:
 
 <br>
 
-Email: kelly.bulger@rogers.com     |     
-
-Phone: 9054473222
+Email: kelly.bulger@rogers.com     |     Phone: 9054473222
 
 <br>
 
