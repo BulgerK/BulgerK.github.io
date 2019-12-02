@@ -15,18 +15,20 @@ Phone: 9054473222
 
 <br>
 
-**Or submit an email form below:**<form> 
+**Or submit an email form below:**
 
-E-mail: <input type="text" name ="email"  id="email"><br>
+****
 
-</form>
+ ****
 
+ <div>
 
+  <label for="exampleInputEmail1">Email address</label>
 
-<form> 
+  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
 
-<textarea>Enter message here.</textarea>
+ <label for="exampleTextarea">Comments</label>
 
-</form>
+  <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
 
-<input type="submit">    <input type="reset">
+   </div> <button type="submit" class="btn btn-primary">Submit</button>
