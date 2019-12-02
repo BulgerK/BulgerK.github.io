@@ -58,4 +58,6 @@ thumbnail: ''
 
 <br>
 
+<img src="/images/uploads/img_3162.jpg" alt="me">
+
 <br>
