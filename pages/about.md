@@ -32,7 +32,7 @@ thumbnail: ''
 
 <div class="pic">
 
-<img src="/images/uploads/img_3162.jpg" alt="me" align="right" float="right">
+<img src="/images/uploads/img_3162.jpg" alt="me" align="right" style= "float=right">
 
 </div>
 
