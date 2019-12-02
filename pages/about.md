@@ -21,8 +21,6 @@ thumbnail: /images/uploads/IMG_3162.jpg
 
 <br>
 
-
-
 <table id= "tb2">
 
 <tr>
@@ -55,8 +53,6 @@ thumbnail: /images/uploads/IMG_3162.jpg
 
 <tr><td>HTML</td></tr>
 
-
-
 <br>
 
 <table id= "tb4">
@@ -73,3 +69,9 @@ thumbnail: /images/uploads/IMG_3162.jpg
 <tr><td>Hockey</td></tr>
 
 <tr><td>Travel bug</td></tr>
+
+</table>
+
+<br>
+
+<br>
