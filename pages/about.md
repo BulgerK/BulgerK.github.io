@@ -2,7 +2,7 @@
 layout: default
 title: About
 id: about
-thumbnail: ''
+
 ---
 <div class="pic">
 
