@@ -58,6 +58,10 @@ thumbnail: ''
 
 <br>
 
+<div id="me">
+
 <img src="/images/uploads/img_3162.jpg" alt="me">
+
+</div>
 
 <br>
