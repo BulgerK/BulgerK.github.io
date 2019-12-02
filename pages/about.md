@@ -36,7 +36,7 @@ thumbnail: ''
 
 </div>
 
-<table>
+<table style= "float: left">
 
 <tr>
 
