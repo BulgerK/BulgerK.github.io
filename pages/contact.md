@@ -3,9 +3,9 @@ layout: default
 title: Contact
 id: contact
 ---
-**Reach Me At:** 
+Reach Me At: 
 
-**<br>**
+<br>
 
 Email: kelly.bulger@rogers.com
 
@@ -15,11 +15,9 @@ Phone: 9054473222
 
 <br>
 
-**Or submit an email form below:**
+Or Submit An Email Contact Below:
 
 ****
-
- ****
 
  <div>
 
