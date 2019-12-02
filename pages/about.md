@@ -2,9 +2,9 @@
 layout: default
 title: About
 id: about
-thumbnail: /images/uploads/img_3162.jpg
+thumbnail: ''
 ---
-<table>
+<table id= "tb1">
 
 <tr>
 
@@ -23,7 +23,7 @@ thumbnail: /images/uploads/img_3162.jpg
 
 
 
-<table>
+<table id= "tb2">
 
 <tr>
 
@@ -42,12 +42,12 @@ thumbnail: /images/uploads/img_3162.jpg
 
 
 
-<table>
+<table id= "tb3">
 
 <tr>
 
-<td><h3> Experience</td>
-</h3></tr>
+<td><h3> Experience
+</h3>
 
 <tr><td>Adobe Suite</td></tr>
 
@@ -61,7 +61,7 @@ thumbnail: /images/uploads/img_3162.jpg
 
 
 
-<table>
+<table id= "tb4">
 
 <tr>
 
@@ -77,7 +77,3 @@ thumbnail: /images/uploads/img_3162.jpg
 <tr><td>Travel bug</td></tr>
 
 </table>
-
-
-
-<img href= "media/IMG_3162.JPG">
