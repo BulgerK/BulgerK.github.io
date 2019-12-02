@@ -5,11 +5,15 @@ id: contact
 ---
 **Reach Me At:** 
 
+**<br>**
+
 Email: kelly.bulger@rogers.com
+
+<br>
 
 Phone: 9054473222
 
-
+<br>
 
 **Or submit an email form below:**<form> 
 
