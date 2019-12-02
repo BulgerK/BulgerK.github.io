@@ -29,8 +29,8 @@ Or Submit An Email Contact Below:
 
   <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
 
-</form>
-
 <br>
 
    </div> <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
