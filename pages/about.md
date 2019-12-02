@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 id: about
-thumbnail: /images/uploads/medic-pop.jpeg
+thumbnail: ''
 ---
 
 This is my about page!!!!
