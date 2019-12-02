@@ -25,7 +25,7 @@ Or Submit An Email Contact Below:
 
   <label for="InputEmail1">Email address</label>
 
-  <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email" width: 50%>
+  <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email" >
 
  <label for="exampleTextarea">Comments</label>
 
