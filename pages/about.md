@@ -35,8 +35,6 @@ id: about
 
 </table>
 
-</div>
-
 <table>
 
 <tr>
