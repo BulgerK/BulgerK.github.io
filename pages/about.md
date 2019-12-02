@@ -4,6 +4,12 @@ title: About
 id: about
 thumbnail: ''
 ---
+<div id="me">
+
+<img src="/images/uploads/img_3162.jpg" alt="me" align="right" float="right">
+
+</div>
+
 <table>
 
 <tr>
@@ -55,13 +61,5 @@ thumbnail: ''
 <td>Travel bug</td></tr>
 
 </table>
-
-
-
-<div id="me">
-
-<img src="/images/uploads/img_3162.jpg" alt="me" align="right" float="right">
-
-</div>
 
 <br>
