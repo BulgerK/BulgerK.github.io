@@ -19,7 +19,7 @@ thumbnail: /images/uploads/IMG_3162.jpg
 
 <tr><td>Expressive</td></tr>
 
-<br>
+
 
 <table id= "tb2">
 
@@ -53,7 +53,7 @@ thumbnail: /images/uploads/IMG_3162.jpg
 
 <tr><td>HTML</td></tr>
 
-<br>
+
 
 <table id= "tb4">
 
