@@ -11,8 +11,6 @@ Email: kelly.bulger@rogers.com     I     Phone: 9054473222
 
 <br>
 
-<br>
-
 Or Submit An Email Contact Below:
 
 <br>
