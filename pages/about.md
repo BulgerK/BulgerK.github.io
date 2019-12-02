@@ -2,11 +2,11 @@
 layout: default
 title: About
 id: about
-
+thumbnail: ''
 ---
 <div class="pic">
 
-<img src="/images/uploads/img_3162.jpg" alt="me" style= "float=right">
+<img src="/images/uploads/img_3162.jpg" alt="me" align: right style= "float=right">
 
 <table>
 
