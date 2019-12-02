@@ -4,6 +4,8 @@ title: About
 id: about
 thumbnail: ''
 ---
+<h2>Hi! I'm Kelly Bulger, a designer with a love for storytelling and the creative imagination.</h2>
+
 <div class="pic">
 
 <img src="/images/uploads/img_3162.jpg" alt="me" align= "right" style= "float=right">
