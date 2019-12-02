@@ -8,8 +8,8 @@ thumbnail: ''
 
 <tr>
 
-<td><h3> Personality/My Story</td>
-</h3></tr>
+<td><h3> Personality/My Story
+</h3>
 
 <tr><td>Creative</td></tr>
 
@@ -27,8 +27,8 @@ thumbnail: ''
 
 <tr>
 
-<td><h3> Skills</td>
-</h3></tr>
+<td><h3> Skills
+</h3>
 
 <tr><td>Communicator</td></tr>
 
@@ -65,8 +65,8 @@ thumbnail: ''
 
 <tr>
 
-<td><h3> Activities/Interests</td>
-</h3></tr>
+<td><h3> Activities/Interests
+</h3>
 
 <tr><td>Voice & Keyboard</td></tr>
 
