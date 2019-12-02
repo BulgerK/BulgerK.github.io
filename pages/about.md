@@ -75,5 +75,3 @@ thumbnail: ''
 <tr><td>Hockey</td></tr>
 
 <tr><td>Travel bug</td></tr>
-
-</table>
