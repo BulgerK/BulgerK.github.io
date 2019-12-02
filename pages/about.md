@@ -60,7 +60,7 @@ thumbnail: ''
 
 <div id="me">
 
-<img src="/images/uploads/img_3162.jpg" alt="me" align="right">
+<img src="/images/uploads/img_3162.jpg" alt="me" align="right" float="right">
 
 </div>
 
