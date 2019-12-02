@@ -2,7 +2,7 @@
 layout: default
 title: About
 id: about
-thumbnail: /images/uploads/IMG_3162.jpg
+thumbnail: 
 ---
 <table id= "tb1">
 
@@ -73,5 +73,6 @@ thumbnail: /images/uploads/IMG_3162.jpg
 </table>
 
 <br>
+<img href="/images/uploads/IMG_3162.jpg">
 
 <br>
