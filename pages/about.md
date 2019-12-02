@@ -55,3 +55,5 @@ thumbnail: /images/uploads/IMG_3162.jpg
 <td>Travel bug</td></tr>
 
 </table>
+
+<link rel="Me" type="img/jpg" href="/images/uploads/img_3162.jpg">
