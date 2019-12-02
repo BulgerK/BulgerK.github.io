@@ -19,7 +19,7 @@ thumbnail: ''
 
 <tr><td>Expressive</td></tr>
 
-</table>
+
 
 
 
@@ -38,7 +38,7 @@ thumbnail: ''
 
 <tr><td>Problem Solver</td></tr>
 
-</table>
+
 
 ``
 
@@ -57,7 +57,7 @@ thumbnail: ''
 
 <tr><td>HTML</td></tr>
 
-</table>
+
 
 
 
